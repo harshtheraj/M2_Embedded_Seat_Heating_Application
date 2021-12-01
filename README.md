@@ -1,5 +1,7 @@
 # M2_Embedded_Seat_Heating_Application
 
+<img width="636" alt="activity_list" src="https://user-images.githubusercontent.com/81011974/144176245-56d263c4-2cfd-4976-ac1e-eb047cb78896.png">
+
 
 # Activity 1
 To turn on led when the passenger is sitting on the seat and the heater is on.
